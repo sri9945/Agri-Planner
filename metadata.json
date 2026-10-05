@@ -1,0 +1,6 @@
+{
+  "name": "AgriData Planner",
+  "description": "Agribusiness data analysis planning and market trend forecasting tool with public data sources, metrics taxonomy, pipeline designer, Gantt timeline, and comprehensive document exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

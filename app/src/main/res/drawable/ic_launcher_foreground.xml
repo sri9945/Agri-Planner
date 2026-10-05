@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Agriculture analytics growth bars -->
+    <path
+        android:pathData="M32,74 L32,62 A2,2 0 0,1 36,62 L36,74 A2,2 0 0,1 32,74 Z"
+        android:fillColor="#86EFAC" />
+    <path
+        android:pathData="M42,74 L42,54 A2,2 0 0,1 46,54 L46,74 A2,2 0 0,1 42,74 Z"
+        android:fillColor="#4ADE80" />
+    <path
+        android:pathData="M52,74 L52,44 A2,2 0 0,1 56,44 L56,74 A2,2 0 0,1 52,74 Z"
+        android:fillColor="#FBBF24" />
+    <path
+        android:pathData="M62,74 L62,38 A2,2 0 0,1 66,38 L66,74 A2,2 0 0,1 62,74 Z"
+        android:fillColor="#F59E0B" />
+    <path
+        android:pathData="M72,74 L72,30 A2,2 0 0,1 76,30 L76,74 A2,2 0 0,1 72,74 Z"
+        android:fillColor="#FDE68A" />
+
+    <!-- Baseline -->
+    <path
+        android:pathData="M28,75 L80,75"
+        android:strokeWidth="2.5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round" />
+
+    <!-- Ascending trend arrow & line -->
+    <path
+        android:pathData="M34,60 L44,52 L54,42 L64,36 L75,27"
+        android:strokeWidth="2.5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M69,26 L76,26 L76,33"
+        android:strokeWidth="2.5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Sprouting Wheat / Plant leaves motif at top left of graph -->
+    <path
+        android:pathData="M48,46 C44,38 36,36 34,40 C34,46 42,48 48,46 Z"
+        android:fillColor="#FBBF24" />
+    <path
+        android:pathData="M46,47 C44,39 52,35 56,38 C58,44 50,47 46,47 Z"
+        android:fillColor="#FDE68A" />
+    <path
+        android:pathData="M40,54 C36,48 30,48 29,52 C30,56 36,56 40,54 Z"
+        android:fillColor="#4ADE80" />
+
+    <!-- Data nodes -->
+    <path
+        android:pathData="M34,60 m-2,0 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0"
+        android:fillColor="#FFFFFF" />
+    <path
+        android:pathData="M44,52 m-2,0 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0"
+        android:fillColor="#FFFFFF" />
+    <path
+        android:pathData="M54,42 m-2,0 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0"
+        android:fillColor="#FFFFFF" />
+    <path
+        android:pathData="M64,36 m-2,0 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0"
+        android:fillColor="#FFFFFF" />
+    <path
+        android:pathData="M75,27 m-2.5,0 a2.5,2.5 0 1,0 5,0 a2.5,2.5 0 1,0 -5,0"
+        android:fillColor="#FBBF24" />
+</vector>
